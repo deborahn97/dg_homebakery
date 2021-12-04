@@ -1,0 +1,4 @@
+#Sun Dec 05 01:35:06 SGT 2021
+base.0=C\:\\Users\\revel\\Desktop\\Courses\\STIW2044 Mobile Programming\\flutter_workspace\\homebakery\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
